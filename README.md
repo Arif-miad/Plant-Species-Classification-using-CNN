@@ -3,7 +3,7 @@
 
 #### 🌱 **Plant Species Classification using CNN**  
 
-![Plants](https://via.placeholder.com/1000x300.png?text=Plant+Classification+with+CNN)  
+![Plants](https://github.com/Arif-miad/Plant-Species-Classification-using-CNN/blob/main/ezgif-3f8cceb92a8cf.jpg)  
 
 ---
 
